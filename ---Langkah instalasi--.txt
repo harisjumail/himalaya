@@ -1,0 +1,7 @@
+1.Extract File himalaya.rar ke folder :
+	jika menggunakan xampp extract file esb ke xampp/htdocs
+	jika wamp extract file ke wamp64/www
+2.Buat Database dengan nama himalaya
+3.Import database dari folder himalaya dengan nama db.sql
+4.Buka di browser localhost/himalaya.
+
